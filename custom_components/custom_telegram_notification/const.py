@@ -1,0 +1,1 @@
+DOMAIN = "custom_telegram_notification"

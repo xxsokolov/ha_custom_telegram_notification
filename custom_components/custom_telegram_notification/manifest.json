@@ -1,0 +1,15 @@
+{
+    "domain": "custom_telegram_notification",
+    "name": "Custom Telegram Notification",
+    "documentation": "https://github.com/xxsokolov/ha_custom_telegram_notification",
+    "issue_tracker": "https://github.com/xxsokolov/ha_custom_telegram_notification/issues",
+    "requirements": [
+        "telebot"
+    ],
+    "dependencies": [],
+    "codeowners": [
+        "@xxsokolov"
+    ],
+    "iot_class": "cloud_polling",
+    "version": "v1.0"
+}
